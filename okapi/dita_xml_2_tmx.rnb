@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rainbowProject version="4"><fileSet id="1"><root useCustom="1">X:/repos/xml_dita_tmx</root><fi fs="okf_xml" fo="" se="" te="">ENG-ESP_BT_Updated.xml</fi></fileSet><fileSet id="2"><root useCustom="0">C:/Users/polyt</root></fileSet><fileSet id="3"><root useCustom="0">C:/Users/polyt</root></fileSet><output><root use="0"></root><subFolder use="0"></subFolder><extension use="1" style="2">.tmx</extension><replace use="0" oldText="" newText=""></replace><prefix use="0"></prefix><suffix use="0"></suffix></output><options sourceLanguage="en-GB" sourceEncoding="UTF-8" targetLanguage="es-ES" targetEncoding="UTF-8"></options><parametersFolder useCustom="1">X:/repos/xml_dita_tmx</parametersFolder><utilities xml:spaces="preserve"><params id="XSLTransformPipeline">&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;rainbowPipeline version="1">&lt;step class="net.sf.okapi.steps.xsltransform.XSLTransformStep">#v1
+xsltPath=X:\repos\xml_dita_tmx\ENG-ESP_BT_Updated.xslt
+paramList=sourceLang=en-GB$0a$targetLang=es-ES
+useCustomTransformer.b=false
+factoryClass=
+xpathClass=
+passOnOutput.b=true&lt;/step>
+&lt;/rainbowPipeline>
+</params></utilities></rainbowProject>

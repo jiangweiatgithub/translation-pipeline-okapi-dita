@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" p1:lang="en" xmlns:p1="xml">
+    <head>
+        <meta charset="UTF-8" />
+        <style>
+            * {
+                box-sizing: border-box
+            }
+            body {
+                margin: 0
+            }
+            bitext {
+                font-family: Arial, sans-serif
+            }
+            title {
+                display: block;
+                font-size: 10pt;
+                font-weight: bold;
+                text-align: center;
+                color: #fff;
+                background-color: #0082b8;
+                padding: 5px
+            }
+            bitext-meta {
+                display: none
+            }
+            segments {
+                display: block;
+                margin: 0 5px;
+                font-size: 10pt
+            }
+            seg {
+                display: flex;
+                justify-content: space-between;
+                margin: 0;
+                padding: 0
+            }
+            src,
+            tgt {
+                width: calc(50% - 10px);
+                margin: 0;
+                padding: 6px;
+                vertical-align: middle;
+                border-top: 1px solid #ddd;
+                overflow: auto
+            }
+            seg:first-of-type src,
+            seg:first-of-type tgt {
+                border-top: 0
+            }
+            b,
+            B {
+                font-weight: bold
+            }
+            i,
+            I {
+                font-style: italic
+            }
+            u,
+            U {
+                text-decoration: underline
+            }</style>
+        <title>M206.docx_ENG-ESP_BT.xml</title>
+    </head>
+    <body>
+        <bitext version="1.3">
+            <title>ENG-ESP_BT.xml</title>
+            <bitext-meta>
+                <generator>AlignRobot 4.0.3.23024</generator>
+                <segmrules>SRX</segmrules>
+                <globalscore>90</globalscore>
+                <filtering></filtering>
+                <langsrc>en-GB</langsrc>
+                <langtgt>es-ES</langtgt>
+                <titlesrc></titlesrc>
+                <titletgt></titletgt>
+                <namesrc>@@@@.txt</namesrc>
+                <nametgt>@@@@.txt</nametgt>
+                <datesrc>11/8/2023 11:29:22 AM</datesrc>
+                <datetgt>11/8/2023 3:01:56 PM</datetgt>
+                <datebtx>8/11/2024 11:01:02 AM</datebtx>
+                <meta>
+                    <title>ENG-ESP_BT.xml</title>
+                    <generator>AlignRobot 4.0.3.23024</generator>
+                    <segmrules>SRX</segmrules>
+                    <globalscore>90</globalscore>
+                    <filtering></filtering>
+                    <langsrc>en-GB</langsrc>
+                    <langtgt>es-ES</langtgt>
+                    <titlesrc></titlesrc>
+                    <titletgt></titletgt>
+                    <namesrc>@@@@.txt</namesrc>
+                    <nametgt>@@@@.txt</nametgt>
+                    <datesrc>11/8/2023 11:29:22 AM</datesrc>
+                    <datetgt>11/8/2023 3:01:56 PM</datetgt>
+                    <datebtx>8/11/2024 11:01:02 AM</datebtx>
+                </meta>
+            </bitext-meta>
+            <segments>
+                
+                <seg id="0" match="1-1" score="100"> 
+                    <src>The quick brown fox jumps over the lazy dog <xref format="html" href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;Language=English&amp;Context=ScriptedSearches&amp;languageUIChanged=true" scope="external">WT/GC/M/206</xref>.</src>
+                    <tgt>El rápido zorro marrón salta sobre el perro perezoso <xref format="html" href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;Language=English&amp;Context=ScriptedSearches&amp;languageUIChanged=true" scope="external">WT/GC/M/206</xref>.</tgt>
+                </seg>
+                <seg id="1" match="1-1" score="100">
+                    <src>A journey of a thousand miles begins with <u>a single step</u>.</src>
+                    <tgt>Un viaje de mil millas comienza con <u>un solo paso</u>.</tgt>
+                </seg>
+                <seg id="2" match="1-1" score="100">
+                    <src><u>To be</u> or <u>not to be</u>, that is the <i>question</i>.</src>
+                    <tgt><u>Ser</u> o <u>no ser</u>, esa es la <i>cuestión</i>.</tgt>
+                </seg>
+                <seg id="3" match="1-1" score="100">
+                    <src><b>Be yourself</b>, <u>everyone else is already taken</u>.</src>
+                    <tgt><b>Sé tú mismo</b>, <u>los demás ya están ocupados</u>.</tgt>
+                </seg>
+
+            </segments>
+        </bitext>
+    </body>
+</html>
