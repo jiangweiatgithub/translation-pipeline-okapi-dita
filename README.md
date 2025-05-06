@@ -29,6 +29,8 @@ OR
 In Okapi Rainbow, open dita_xml_2_tmx.rnb:
 ![image](https://github.com/user-attachments/assets/665d9e90-507d-4819-99b0-2d3163f191c4)
 ![image](https://github.com/user-attachments/assets/72e432da-86aa-49e6-8383-26502ac00f51)
+Here is what the generated TMX looks like when imported into a Translation Memory in memoQ:
+![image](https://github.com/user-attachments/assets/f02c9bbb-052d-4e4a-b7f6-b062d3c7f679)
 
 2. **Translate the DITA file using Rainbow:**
 
