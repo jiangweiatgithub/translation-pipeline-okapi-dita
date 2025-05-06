@@ -32,13 +32,13 @@ In Okapi Rainbow, open dita_xml_2_tmx.rnb:
 Here is what the generated TMX looks like when imported into a Translation Memory in memoQ:
 ![image](https://github.com/user-attachments/assets/f02c9bbb-052d-4e4a-b7f6-b062d3c7f679)
 
-2. **Translate the DITA file using Rainbow:**
+2. **Translate the DITA file using Rainbow - not verified:**
 
 ```bash
 java -jar path/to/Rainbow.jar okapi/translate.rnb
 ```
 
-3. *(Optional)* Run the entire process:
+3. *(Optional)* Run the entire process - not verified:
 
 ```bash
 bash scripts/transform_and_translate.sh
