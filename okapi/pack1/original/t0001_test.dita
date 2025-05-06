@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+  id="t0001_minutes_of_the_meeting_the_propose" outputclass="Title" xml:lang="en">
+  <title><ph>The quick brown fox jumps over the lazy dog <xref format="html"
+        href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;Language=English&amp;Context=ScriptedSearches&amp;languageUIChanged=true"
+        scope="external">WT/GC/M/206</xref>.</ph></title>
+  <prolog>
+    <metadata>
+      <othermeta name="OtherCountryMentioned" content="Botswana"/>
+      <othermeta name="Referenced symbol" content="WT/GC/W/903"/>
+    </metadata>
+  </prolog>
+  <body>
+    <p>A journey of a thousand miles begins with <u>a single step</u>.</p>
+    <p><u>To be</u> or <u>not to be</u>, that is the <i>question</i>.</p>
+    <p><b>Be yourself</b>, <u>everyone else is already taken</u>.</p>
+  </body>
+</topic>
