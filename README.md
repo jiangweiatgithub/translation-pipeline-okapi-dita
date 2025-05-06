@@ -25,6 +25,10 @@ This project demonstrates a localization workflow using:
 ```bash
 xsltproc xslt/ENG-ESP_BT_Updated.xslt data/ENG-ESP_BT_Updated.xml > data/ENG-ESP_BT_Updated.tmx
 ```
+OR
+In Okapi Rainbow, open dita_xml_2_tmx.rnb:
+![image](https://github.com/user-attachments/assets/665d9e90-507d-4819-99b0-2d3163f191c4)
+![image](https://github.com/user-attachments/assets/72e432da-86aa-49e6-8383-26502ac00f51)
 
 2. **Translate the DITA file using Rainbow:**
 
