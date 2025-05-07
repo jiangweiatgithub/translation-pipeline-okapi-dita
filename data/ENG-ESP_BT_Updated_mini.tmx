@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4"><header creationtool="net.sf.okapi.steps.leveraging.LeveragingStep" creationtoolversion="1" segtype="sentence" o-tmf="undefined" adminlang="en" srclang="en-GB" datatype="undefined"></header><body>
+<tu>
+<tuv xml:lang="en-GB"><seg>The quick brown fox jumps over the lazy dog <bpt x="1" i="1" type="Xpt">&lt;xref format=&quot;html&quot; href=&quot;https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;Language=English&amp;Context=ScriptedSearches&amp;languageUIChanged=true&quot; scope=&quot;external&quot;&gt;</bpt>WT/GC/M/206<ept i="1">&lt;/xref&gt;</ept>.</seg></tuv>
+<tuv xml:lang="es-ES"><seg>El rápido zorro marrón salta sobre el perro perezoso <bpt x="1" i="1" type="Xpt">&lt;ph&gt;</bpt>WT/GC/M/206<ept i="1">&lt;/ph&gt;</ept>.<bpt x="2" i="2" type="Xpt">&lt;xref format=&quot;html&quot;
+        href=&quot;https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;amp;Language=English&amp;amp;Context=ScriptedSearches&amp;amp;languageUIChanged=true&quot;
+        scope=&quot;external&quot;&gt;</bpt><ept i="2">&lt;/xref&gt;</ept></seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-GB"><seg>A journey of a thousand miles begins with <bpt x="1" i="1" type="Xpt">&lt;u&gt;</bpt>a single step<ept i="1">&lt;/u&gt;</ept>.</seg></tuv>
+<tuv xml:lang="es-ES"><seg>Un viaje de mil millas comienza con <bpt x="1" i="1" type="Xpt">&lt;u&gt;</bpt>un solo paso<ept i="1">&lt;/u&gt;</ept>.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-GB"><seg><bpt x="1" i="1" type="Xpt">&lt;u&gt;</bpt>To be<ept i="1">&lt;/u&gt;</ept> or <bpt x="2" i="2" type="Xpt">&lt;u&gt;</bpt>not to be<ept i="2">&lt;/u&gt;</ept>, that is the <bpt x="3" i="3" type="Xpt">&lt;i&gt;</bpt>question<ept i="3">&lt;/i&gt;</ept>.</seg></tuv>
+<tuv xml:lang="es-ES"><seg><bpt x="1" i="1" type="Xpt">&lt;u&gt;</bpt>Ser<ept i="1">&lt;/u&gt;</ept> o <bpt x="2" i="2" type="Xpt">&lt;u&gt;</bpt>no ser<ept i="2">&lt;/u&gt;</ept>, esa es la <bpt x="3" i="3" type="Xpt">&lt;i&gt;</bpt>cuestión<ept i="3">&lt;/i&gt;</ept>.</seg></tuv>
+</tu>
+<tu>
+<tuv xml:lang="en-GB"><seg><bpt x="1" i="1" type="Xpt">&lt;b&gt;</bpt>Be yourself<ept i="1">&lt;/b&gt;</ept>, <bpt x="2" i="2" type="Xpt">&lt;u&gt;</bpt>everyone else is already taken<ept i="2">&lt;/u&gt;</ept>.</seg></tuv>
+<tuv xml:lang="es-ES"><seg><bpt x="1" i="1" type="Xpt">&lt;b&gt;</bpt>Sé tú mismo<ept i="1">&lt;/b&gt;</ept>, <bpt x="2" i="2" type="Xpt">&lt;u&gt;</bpt>los demás ya están ocupados<ept i="2">&lt;/u&gt;</ept>.</seg></tuv>
+</tu>
+</body>
+</tmx>

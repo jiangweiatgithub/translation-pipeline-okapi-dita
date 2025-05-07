@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" version="1.2" its:version="2.0">
+<file original="data/t0001_test.dita" source-language="en-GB" target-language="es-ES" datatype="xml">
+<body>
+<trans-unit id="tu1">
+<source xml:lang="en-GB"><bpt id="1">&lt;ph></bpt>The quick brown fox jumps over the lazy dog <bpt id="2">&lt;xref format="html"
+        href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;amp;Language=English&amp;amp;Context=ScriptedSearches&amp;amp;languageUIChanged=true"
+        scope="external"></bpt>WT/GC/M/206<ept id="2">&lt;/xref></ept>.<ept id="1">&lt;/ph></ept></source>
+<seg-source><mrk mid="0" mtype="seg"><bpt id="1">&lt;ph></bpt>The quick brown fox jumps over the lazy dog <bpt id="2">&lt;xref format="html"
+        href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;amp;Language=English&amp;amp;Context=ScriptedSearches&amp;amp;languageUIChanged=true"
+        scope="external"></bpt>WT/GC/M/206<ept id="2">&lt;/xref></ept>.<ept id="1">&lt;/ph></ept></mrk></seg-source>
+<target xml:lang="es-ES"><mrk mid="0" mtype="seg">El rápido zorro marrón salta sobre el perro perezoso <bpt id="1">&lt;ph></bpt>WT/GC/M/206<ept id="1">&lt;/ph></ept>.<bpt id="2">&lt;xref format="html"
+        href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;amp;Language=English&amp;amp;Context=ScriptedSearches&amp;amp;languageUIChanged=true"
+        scope="external"></bpt><ept id="2">&lt;/xref></ept></mrk></target>
+</trans-unit>
+<trans-unit id="tu2" restype="x-content">
+<source xml:lang="en-GB">Botswana</source>
+<seg-source><mrk mid="0" mtype="seg">Botswana</mrk></seg-source>
+<target xml:lang="es-ES"><mrk mid="0" mtype="seg">Botswana</mrk></target>
+</trans-unit>
+<trans-unit id="tu3" restype="x-content">
+<source xml:lang="en-GB">WT/GC/W/903</source>
+<seg-source><mrk mid="0" mtype="seg">WT/GC/W/903</mrk></seg-source>
+<target xml:lang="es-ES"><mrk mid="0" mtype="seg">WT/GC/W/903</mrk></target>
+</trans-unit>
+<trans-unit id="tu4">
+<source xml:lang="en-GB">A journey of a thousand miles begins with <bpt id="1">&lt;u></bpt>a single step<ept id="1">&lt;/u></ept>.</source>
+<seg-source><mrk mid="0" mtype="seg">A journey of a thousand miles begins with <bpt id="1">&lt;u></bpt>a single step<ept id="1">&lt;/u></ept>.</mrk></seg-source>
+<target xml:lang="es-ES"><mrk mid="0" mtype="seg">Un viaje de mil millas comienza con <bpt id="1">&lt;u></bpt>un solo paso<ept id="1">&lt;/u></ept>.</mrk></target>
+</trans-unit>
+<trans-unit id="tu5">
+<source xml:lang="en-GB"><bpt id="1">&lt;u></bpt>To be<ept id="1">&lt;/u></ept> or <bpt id="2">&lt;u></bpt>not to be<ept id="2">&lt;/u></ept>, that is the <bpt id="3">&lt;i></bpt>question<ept id="3">&lt;/i></ept>.</source>
+<seg-source><mrk mid="0" mtype="seg"><bpt id="1">&lt;u></bpt>To be<ept id="1">&lt;/u></ept> or <bpt id="2">&lt;u></bpt>not to be<ept id="2">&lt;/u></ept>, that is the <bpt id="3">&lt;i></bpt>question<ept id="3">&lt;/i></ept>.</mrk></seg-source>
+<target xml:lang="es-ES"><mrk mid="0" mtype="seg"><bpt id="1">&lt;u></bpt>Ser<ept id="1">&lt;/u></ept> o <bpt id="2">&lt;u></bpt>no ser<ept id="2">&lt;/u></ept>, esa es la <bpt id="3">&lt;i></bpt>cuestión<ept id="3">&lt;/i></ept>.</mrk></target>
+</trans-unit>
+<trans-unit id="tu6">
+<source xml:lang="en-GB"><bpt id="1">&lt;b></bpt>Be yourself<ept id="1">&lt;/b></ept>, <bpt id="2">&lt;u></bpt>everyone else is already taken<ept id="2">&lt;/u></ept>.</source>
+<seg-source><mrk mid="0" mtype="seg"><bpt id="1">&lt;b></bpt>Be yourself<ept id="1">&lt;/b></ept>, <bpt id="2">&lt;u></bpt>everyone else is already taken<ept id="2">&lt;/u></ept>.</mrk></seg-source>
+<target xml:lang="es-ES"><mrk mid="0" mtype="seg"><bpt id="1">&lt;b></bpt>Sé tú mismo<ept id="1">&lt;/b></ept>, <bpt id="2">&lt;u></bpt>los demás ya están ocupados<ept id="2">&lt;/u></ept>.</mrk></target>
+</trans-unit>
+</body>
+</file>
+</xliff>

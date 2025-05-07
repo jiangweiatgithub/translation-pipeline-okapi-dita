@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+  id="t0001_minutes_of_the_meeting_the_propose" outputclass="Title" xml:lang="es-ES">
+  <title>El rápido zorro marrón salta sobre el perro perezoso <ph>WT/GC/M/206</ph>.<xref format="html"
+        href="https://docs.wto.org/dol2fe/Pages/FE_Search/FE_S_S006.aspx?DataSource=Cat&amp;query=@Symbol=%22WT/GC/M/206%22%20OR%20@Symbol=%22WT/GC/M/206/*%22&amp;Language=English&amp;Context=ScriptedSearches&amp;languageUIChanged=true"
+        scope="external"></xref></title>
+  <prolog>
+    <metadata>
+      <othermeta name="OtherCountryMentioned" content="Botswana"/>
+      <othermeta name="Referenced symbol" content="WT/GC/W/903"/>
+    </metadata>
+  </prolog>
+  <body>
+    <p>Un viaje de mil millas comienza con <u>un solo paso</u>.</p>
+    <p><u>Ser</u> o <u>no ser</u>, esa es la <i>cuestión</i>.</p>
+    <p><b>Sé tú mismo</b>, <u>los demás ya están ocupados</u>.</p>
+  </body>
+</topic>
